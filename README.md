@@ -1,14 +1,9 @@
-Hi 👋 My name is Jose Barcos
-============================
+Hi, my name is Jose Barcos! 👋🏻
 
-Full Stack Developer
---------------------
+I'm a Fullstack software developer and Software Architect.  
+Currently, I'm working as a Software Architect for a software company based in Ecuador
 
-Hi, I'm a software developer with a modest expertise in cloud native applications and distributed applications. Currently, I work as a software architect for a software factory.
-
-*   🌍  I'm based in Ecuador 🌋
-*   ✉️  You can contact me at [jbarcos.biz@gmail.com](mailto:jbarcos.biz@gmail.com)
-*   🧠  I'm learning TypeScript, Deno, Knative & Serverless.
+As a software architect, I’m responsible for the design of enterprise level applications using Node.js and Typescript with DDD, and working with microservices and serverless technologies.
 
 ### Skills
 <p align="left">
