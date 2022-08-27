@@ -103,7 +103,3 @@ Hi, I'm a software developer with a modest expertise in cloud native application
 <a href="http://www.github.com/JosigBarcos">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosigBarcos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/josig.barcos"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
