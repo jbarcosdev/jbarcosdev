@@ -71,16 +71,6 @@ I have more than 4 years of professional experience working in the tech industry
   </a>
   
 </p>
-                    
-### Socials
-                  
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jbarcos" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-
-</p>
 
 ### Badges
 
