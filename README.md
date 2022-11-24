@@ -1,9 +1,8 @@
 Hi, my name is Jose Barcos! 👋🏻
 
-I'm a Fullstack software developer and Software Architect.  
-Currently, I'm working as a Software Architect for a software company based in Ecuador
+I'm a Fullstack software developer and Software Architect.
 
-As a software architect, I’m responsible for the design of enterprise level applications using Node.js and Typescript with DDD, and working with microservices and serverless technologies.
+I have more than 4 years of professional experirience. In the last 2 years, I've been responsible for the design of enterprise level applications using Node.js and Typescript with DDD, and working with microservices and serverless technologies.
 
 ### Skills
 <p align="left">
@@ -76,17 +75,9 @@ As a software architect, I’m responsible for the design of enterprise level ap
 ### Socials
                   
 <p align="left">
-                          
-<a href="https://www.github.com/JosigBarcos" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-</a>
 
 <a href="https://www.linkedin.com/in/jbarcos" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-  
-<a href="http://www.instagram.com/josig.barcos" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
 </a>
 
 </p>
