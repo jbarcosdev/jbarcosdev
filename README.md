@@ -2,7 +2,7 @@ Hi, my name is Jose Barcos! 👋🏻
 
 I'm a Fullstack software developer and Software Architect.
 
-I have more than 4 years of professional experience working in the tech industry. In the last 2 years, I've been responsible for the design of enterprise level applications using Node.js and Typescript with DDD, and working with microservices and serverless technologies.
+I have more than 5 years of professional experience working in the tech industry. In the last 3 years, I've been responsible for the design of enterprise level applications using Node.js and Typescript with DDD, and working with microservices and serverless technologies.
 
 ### Skills
 <p align="left">
