@@ -1,6 +1,6 @@
 Hi, my name is Jose Barcos! 👋🏻
 
-Highly skilled Senior Full-Stack Engineer and Software Architect with over 6 years of extensive formal experience in developing robust and scalable software solutions for SaaS companies, and more than 7 years of experience working as a freelance developer and consultant. I am a former founder of a SaaS startup in my country, which was sold for a six-figure sum through a private agreement in 2021.
+Highly skilled Senior Full-Stack Engineer and Software Architect with over 7 years of extensive formal experience in developing robust and scalable software solutions for SaaS companies, and more than 9 years of experience working as a freelance developer and consultant. I am a former founder of a SaaS startup in my country, which was sold for a six-figure sum through a private agreement in 2021.
 
 
 ### Skills
