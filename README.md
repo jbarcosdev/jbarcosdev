@@ -1,6 +1,6 @@
-Hi, my name is Jose Barcos! 👋🏻
+Highly skilled Senior Full-Stack Engineer and Software Architect with over 7 years of formal experience building robust, scalable solutions for fast-growing SaaS companies. I am the former founder of [Helitess](https://www.youtube.com/@helitess), an e-commerce startup launched in 2019 that became widely popular across 2020–2021 and was successfully sold in a six-figure private acquisition. I am also the current founder of [SofiApp](https://sofi.cash/), an AI financial agent that automates the monitoring and management of personal expenses through intelligent data extraction and real-time insights.
 
-Highly skilled Senior Full-Stack Engineer and Software Architect with over 7 years of extensive formal experience in developing robust and scalable software solutions for SaaS companies, and more than 9 years of experience working as a freelance developer and consultant. I am a former founder of a SaaS startup in my country, which was sold for a six-figure sum through a private agreement in 2021.
+Throughout my career, I've served as a technical consultant for more than nine Silicon Valley startups, including two unicorns, helping them design, architect, and scale high-performance products and systems.
 
 
 ### Skills
