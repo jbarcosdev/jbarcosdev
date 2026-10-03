@@ -34,12 +34,11 @@
 [![Website](https://img.shields.io/badge/sofi.cash-ff6b9d?style=flat-square&logo=safari&logoColor=white)](https://sofi.cash)
 ![Countries](https://img.shields.io/badge/countries-107-c06cf0?style=flat-square)
 
-### countries-and-currencies-utils
-**Regional utilities for countries and currencies**, used by developers worldwide.
+### iso-data
+**Countries, currencies, languages and timezones in a single zero-dependency package.** Localized names through a `locale` option, timezone offsets for any date, and typed lookups by ISO code. Apache-2.0.
 
-[![npm](https://img.shields.io/npm/v/countries-and-currencies-utils?style=flat-square&logo=npm&color=cb3837)](https://www.npmjs.com/package/countries-and-currencies-utils)
-[![Weekly downloads](https://img.shields.io/npm/dw/countries-and-currencies-utils?style=flat-square&color=6d28d9)](https://www.npmjs.com/package/countries-and-currencies-utils)
-[![GitHub](https://img.shields.io/badge/GitHub-repo-0f172a?style=flat-square&logo=github)](https://github.com/jbarcosdev/countries-and-currencies-utils)
+[![npm](https://img.shields.io/npm/v/iso-data?style=flat-square&logo=npm&color=cb3837)](https://www.npmjs.com/package/iso-data)
+[![GitHub](https://img.shields.io/badge/GitHub-repo-0f172a?style=flat-square&logo=github)](https://github.com/jbarcosdev/iso-data)
 
 <br />
 
